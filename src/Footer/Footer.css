@@ -1,0 +1,33 @@
+.footer_content{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+
+}
+
+/* .social_links{
+    background-color: #0000ff;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+   
+} */
+#foot_ul {
+    display: flex;
+    flex-direction: row;
+        
+}
+
+#foot_ul li{
+    list-style-type: none;
+    margin: 10px auto;
+    font-size: 18px;
+    
+}
+
+#foot_ul li a{
+    color: white;
+    font-size: 1.2rem;
+    text-decoration: none;
+}

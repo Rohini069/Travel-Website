@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&family=Homemade+Apple&family=Keania+One&family=Stalinist+One&display=swap');
+
+h3{
+    font-family: "Keania One", sans-serif;;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+
+p{
+    font-family: "Strait", sans-serif;
+    font-size: 1.5rem;
+}
